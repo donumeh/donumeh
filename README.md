@@ -1,0 +1,5 @@
+- 👋 Hi, Donald Emeka Umeh
+- 👀 I’m interested in AI, Machine Learning, and Cybersecurity
+- 🌱 I’m currently learning Full-stack Engineering
+- 💞️ I’m looking to collaborate on AI and Machine Learnign Projects
+- 📫 How to reach me Linkedin (https://www.linkedin.com/in/donald-umeh-41373224b/)
