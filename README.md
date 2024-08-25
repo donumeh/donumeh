@@ -20,3 +20,5 @@ With a background as a data processing instructor for 5 years+, I bring a unique
 [X (Twitter)](https://twitter.com/0xmaceka) 
   
 [Linkedin](https://www.linkedin.com/in/donald-umeh-41373224b/)
+
+I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
