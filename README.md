@@ -1,8 +1,9 @@
-👋 Hi, I'm Donald Umeh! I'm a student software engineer at BYU-Idaho and ALX SWE focused on learning and harnessing technology to make significant impacts in my community.
+👋 Hi, I’m Donald Umeh!
+
+I’m a student software engineer at BYU-Idaho and an ALX Software Engineering graduate, focused on leveraging technology to create significant impacts in my community.
 
 ## About Me
-
-With a background as a data processing instructor for 5 years+, I bring a unique combination of discipline, analysis, strategic vision and technical prowess to projects. My passion lies in developing software solutions that not only solve problems but also trying as much to make work environment productive.
+With over 5 years of experience as a data processing instructor, I combine discipline, analytical skills, strategic vision, and technical expertise in my projects. I am passionate about developing software solutions that solve real problems and enhance productivity in the workplace.
 
 ## Technical Skills 🛠️
 
@@ -10,15 +11,10 @@ With a background as a data processing instructor for 5 years+, I bring a unique
 * **Frameworks & Libraries**: Flask, REST API,
 * **Tools & Platforms**: Github, Puppet, Nginx, Vim, VS Code, MySQL, SQLAlchemy
 
+
 ## Professional Goals 🚀
 
-* **Career Development**: Focused on furthering my career in software development specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
-* **Continuous Learning**: Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skill. 📈
-
-## Connect with Me 📬
-
-[X (Twitter)](https://twitter.com/0xmaceka) 
-  
-[Linkedin](https://www.linkedin.com/in/donald-umeh-41373224b/)
+* **Career Development**: I aim to advance my career in software development, particularly in roles that utilize my leadership experience and technical skills to build impactful tech solutions.
+* **Continuous Learning**: I am committed to ongoing professional development, staying updated with the latest tech trends, and enhancing my coding skills. 📈
 
 I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
