@@ -1,10 +1,14 @@
-import './App.css'
+import './App.css';
+import Credentials from './credentials/Credentials';
+import Intro from './intro/Intro';
 
-function App() {
+const App = () => {
   return (
-    <>
-    </>
+    <div>
+      <Intro />
+      <Credentials />
+    </div>
   );
 }
 
-export default App
+export default App;

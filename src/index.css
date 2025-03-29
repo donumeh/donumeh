@@ -1,0 +1,22 @@
+:root {
+    --background-color: #1b1d1e;
+
+
+    /* Font Color and Typography */
+    --font-color: #e8e6e3;
+    --header-color: #a8a6a5;
+    --default-font-family: "Plus Jakarta Sans", sans-serif;
+    --name-font-family: "Dancing Script", cursive;
+    --profession-font-family: "Kaushen Script", cursive;
+
+    --secondary-color: #90ee90;
+    --secondary-color: #90ee90;
+}
+/* #a8a6a5 */
+
+*, html, body {
+    box-sizing: border-box;
+    background-color: var(--background-color);
+    color: var(--font-color);
+    font-family: var(--default-font-family);
+}
